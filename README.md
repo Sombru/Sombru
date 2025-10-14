@@ -35,7 +35,7 @@ Implements tokenization, redirections, pipes, and built-in command execution —
   <img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,git,github,vim" />
   <br>
   <!-- Expanding -->
-  <img src="https://skillicons.dev/icons?i=python,docker,cmake,makefile,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,docker,cmake,vscode" />
 </p>
 
 ---
