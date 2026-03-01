@@ -1,5 +1,5 @@
 <!-- PROFILE README for Sombru -->
-Hi, I'm Lane Sombru
+Hi, I'm Sombru
 
      I've been coding for over 3 years
      I'am studying at 42 prague
